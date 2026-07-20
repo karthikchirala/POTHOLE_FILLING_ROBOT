@@ -28,6 +28,13 @@ An Arduino-based mobile robot designed to detect and temporarily fill road potho
 
 The robot is manually driven to the target area. When a pothole is detected, the Arduino automatically halts movement, opens the sand container using a servo motor to fill the pothole, then closes the container and re-enables manual control.
 
+## Block Diagram
+![Block Diagram](images/block_diagram.png)
 
+## Flowchart
+![Flowchart](images/flowchart.png)
+
+## Result
+![Result](images/result.png)
 
 

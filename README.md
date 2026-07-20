@@ -32,7 +32,7 @@ The robot is manually driven to the target area. When a pothole is detected, the
 ![Block Diagram](images/block_diagram.jpg)
 
 ## Flowchart
-![Flowchart](images/flowchart.jpg)
+![Flowchart](images/flow_chart.jpg)
 
 ## Result
 ![Result](images/result.jpg)
